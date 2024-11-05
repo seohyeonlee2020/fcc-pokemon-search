@@ -1,0 +1,19 @@
+body {
+font-family: "Lucida Console", "Courier New", monospace;
+  margin: 10px;
+  align: center;
+}
+
+.container {
+  display: flex;
+
+}
+
+.info{
+  margin: 10px;
+}
+
+table, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
